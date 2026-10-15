@@ -3,26 +3,30 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-</style>
 </head>
 <body>
 <header>
-<img class="logo" src="images/logo.jpg" alt="Hogshare logo">
-<h1>Hogshare</h1>
+<img class="logo" width="320" height="320" src="https://github.com/user-attachments/assets/44c85220-40b8-4882-8bb8-686a049cac14" alt="Hogshare logo">
 <p class="tag"><a href="https://www.instagram.com/nmh.hogshare/">@nmh.hogshare</a></p>
 </header>
 <main>
 
 <section id="team">
 <h2>Team Intro</h2>
-<figure><img class="photo" src="images/founders.jpg" alt="Selfie of founders" loading="lazy"><figcaption>Selfie of founders</figcaption></figure>
+<figure>
+  <img class="photo" width="900" height="506" src="https://github.com/user-attachments/assets/812a8a61-e32e-40dd-bbc4-01d187a1aa91" alt="Selfie of founders" loading="lazy">
+  <figcaption>Selfie of founders</figcaption>
+</figure>
 <p>The founders of Hogshare are Tina Wu &lsquo;27 and Katie Hu &lsquo;27, for our project for the Social Entrepreneurship II class. We built this because we noticed firsthand the demand for borrowing, whether it's friends asking each other or the phrase of my friends saying &ldquo;I don&rsquo;t have anything to wear&rdquo; when closets are overflowing and cabinets cannot close. Everyone can admit they love new things, but what if we created a solution to combine the love for new items that you want for 0 dollars and help the environment?? Introducing HogShare:</p>
 </section>
 
 <section id="problem">
 <h2>The Problem: Pay more, use less</h2>
 <p>NMH students regularly encounter a recurring and inefficient cycle of consumption. Before major campus events like Dwight Night, athletic banquets, and formal dances, students often spend $70 or more on items like dresses and accessories that are worn only once. Similarly, students seeking weekend entertainment frequently make impulsive purchases of recreational goods such as sports equipment or gaming consoles only for the items to be left alone shortly after. &ldquo;I sometimes really don&rsquo;t want to spend that much on a new costume, but there&rsquo;s no way I&rsquo;m re-wearing my old ones, so I guess I have to,&rdquo; said one of the initial students interviewed. Not only is this one-time-use consumption making students pay more, but it also creates excessive waste on campus. The waste thus leads to negative environmental impacts, as many one-time-use plastics and fabrics cause severe environmental harms and take decades to degrade.</p>
-<figure><img class="photo" src="images/dresses.jpg" alt="Students in dresses on church steps" loading="lazy"><figcaption>Dresses (example of how many times all of these dresses could be worn)</figcaption></figure>
+<figure>
+  <img class="photo" width="1100" height="822" src="https://github.com/user-attachments/assets/e2b35434-28a4-4f0e-b441-14a75aade0ca" alt="Students in dresses on church steps" loading="lazy">
+  <figcaption>Dresses (example of how many times all of these dresses could be worn)</figcaption>
+</figure>
 <p>According to our user survey, more than 80% of responders said they wanted something for an event but didn&rsquo;t buy it because of its price, and 37% of all responders said they have a habit of borrowing items from other users. Therefore, the other side of this unhappy equilibrium is that students who require temporary access to items have no reliable or structured method for doing so beyond informal peer-to-peer requests. Currently, this need is met inadequately. There is no existing system that creates a mutually beneficial exchange between students with inactive assets and students seeking short-term access. This is a persistent gap. Students want to regain some of their initial investment, but have no platform to do so, and students who want affordable, temporary access to goods have no efficient way to find them.</p>
 </section>
 
@@ -65,7 +69,10 @@
 
 <section id="research">
 <h2>Research:</h2>
-<figure class="narrow"><img class="photo" src="images/focus-group.jpg" alt="Focus group" loading="lazy"><figcaption>Focus group</figcaption></figure>
+<figure class="narrow">
+  <img class="photo" width="700" height="920" src="https://github.com/user-attachments/assets/101e9a1d-94b4-41cc-87f5-f05ac8a16435" alt="Focus group" loading="lazy">
+  <figcaption>Focus group</figcaption>
+</figure>
 <p>We also conducted research using cluster randomization for our focus group to look thorough ur website and give feedback on both features that are good and need improvement, as well as our liability form. We conducted a SWOT analysis on three companies, which were Rent the Runway, Poshmark, and Neighborgoods, to ensure we embody their strengths and try our best to prevent their weaknesses. And finally, we also conducted a survey sent to the student announcements email to learn more about where the students&rsquo; demand lies as well as concerns they may have. Many responses expressed emphasis on their concern of cleanliness and responsibility, which shaped our liability form.</p>
 </section>
 
