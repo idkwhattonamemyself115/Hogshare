@@ -10,7 +10,7 @@
 
 ![Selfie of founders](founders.jpg)
 
-The founders of Hogshare are **Tina Wu '27** and **Katie Hu '27**, created for our project in the Social Entrepreneurship II class. We built this because we noticed firsthand the demand for borrowing—whether it's friends asking each other or hearing "I don't have anything to wear" when closets are overflowing and cabinets cannot close. Everyone loves new things, but what if we created a solution to combine the love for new items for $0 while helping the environment? 
+The founders of Hogshare are Katie Hu'27 and Tina Wu'27, creating the project in their Social Entrepreneurship II class. We built this because we noticed firsthand the demand for borrowing—whether it's friends asking each other or hearing "I don't have anything to wear" when closets are overflowing and cabinets cannot close. Everyone loves new things, but what if we created a solution to combine the love for new items for $0 while helping the environment? 
 
 Introducing **Hogshare**!
 
