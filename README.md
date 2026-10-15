@@ -73,12 +73,16 @@ Students can borrow items for **FREE** and even earn value through transactions 
 Over the past two months, we designed and built a functioning website for all Hogshare activities, focusing on user experience, navigateability, and practical functionality.
 
 ### Core Features
+
 **User Registration & Liability Form:** Users sign up with their NMH email. Includes Google email verification access for safe password resets via Softr. Requires agreement to our liability form (return responsibility, lost/damaged item policy, photo documentation, and community etiquette).
+
 **Item Listings:** Browse published items filtered by condition, category, and name. Users list items with pricing, description, condition notes, and actual photos.
+
 **Send Request:** Borrowers select item dates, estimated pricing, and purpose. Renters instantly receive approval/decline notifications. Upon approval, users connect via email to arrange campus pickup/return.
+
 **Financial Analytics:** User dashboard displays statistical analytics of transaction history (pie charts, bar graphs) broken down by category and type, alongside active requests and pending approvals.
 
----
+
 
 ## Research & Feedback
 
