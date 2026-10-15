@@ -49,8 +49,10 @@ As a social enterprise, Hogshare empowers students to lend and borrow clothing, 
 Students can borrow items for **FREE** and even earn value through transactions using **Hogcash**, an internal credit system (1 Hogcash = $1 in rental value).
 
 -Earn Hogcash: Volunteer in campus sustainability events and commit to environmentally friendly actions in return for platform credit. Examples include donating clothing, attending sustainability events, or leaving comments on Hogshare.
+
 -Borrow what you need:  Rent any item listed on Hogshare using your earned Hogcash credits.
--MAKE MONEY out of Hogshare: Register and list your own items. Whenever your item is rented out, the transaction value converts into available credits for the school store during cashout timeframes. *(Example: If someone pays 5 Hogcash to borrow your hair curler, you get $5 in school store credits).*
+
+-MAKE MONEY out of Hogshare: Register and list your own items. Whenever your item is rented out, the transaction value converts into available credits for the school store during cashout timeframes. *(Example: If someone pays 5 Hogcash to borrow your hair curler, you get $5 in school store credits).
 
 ---
 
